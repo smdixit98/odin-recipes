@@ -1,0 +1,53 @@
+div {
+    color: rgb(255,0,0);
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.links {
+    color: rgb(255, 255, 255);
+}
+
+.main {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+}
+
+.lasagna-recipe {
+    background-color: rgb(255,0,0);
+    color: rgb(255,255,255);
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+#lasagna,
+.lasagna-steps {
+    color: hsl(0,100%,75%);
+    background-color: black
+}
+
+.turkey-recipe {
+    background-color: khaki;
+    color: hsl(25,100%,50%)
+}
+
+.turkey-casserole,
+#turkey-steps {
+    color: khaki;
+    background-color: rgb(0,0,0);
+}
+
+.pecan-pie {
+    background-color: yellow;
+    color: brown
+
+}
+
+.pecan-recipe,
+#pecan-steps {
+    background-color: black;
+    color: blanchedalmond;
+}
